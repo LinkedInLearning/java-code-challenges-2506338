@@ -5,7 +5,7 @@ ARG VARIANT="17-bullseye"
 FROM mcr.microsoft.com/vscode/devcontainers/java:0-${VARIANT}
 
 # [Option] Install Maven
-ARG INSTALL_MAVEN="false"
+ARG INSTALL_MAVEN="true"
 ARG MAVEN_VERSION=""
 # [Option] Install Gradle
 ARG INSTALL_GRADLE="false"
