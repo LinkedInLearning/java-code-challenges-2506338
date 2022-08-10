@@ -21,5 +21,6 @@
   "workbench.colorTheme": "GitHub Light",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
-  "java.configuration.updateBuildConfiguration": "automatic"
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.dependency.packagePresentation": "hierarchical"
 }
