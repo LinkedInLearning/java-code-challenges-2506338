@@ -18,4 +18,3 @@ public class BubbleSortTest {
     Assertions.assertArrayEquals(new int[] { 1, 2, 4, 5, 8 }, array);
   }
 }
-ö
