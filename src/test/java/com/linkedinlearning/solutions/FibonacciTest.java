@@ -8,7 +8,7 @@ public class FibonacciTest {
   void testFibonacci() {
     var expected = 144;
     var actual = Fibonacci.fibonacci(12);
-
+    System.out.println(actual);
     Assertions.assertEquals(expected, actual);
   }
 }

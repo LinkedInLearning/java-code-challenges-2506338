@@ -12,7 +12,9 @@ public class CsvParserTest {
     var csvParser = new CsvParser();
     Map<Integer, String> turingAwardWinners = csvParser.parse("src/test/resources/turing.csv");
 
+    System.out.println(turingAwardWinners);
     Assertions.assertEquals("Richard Hamming", turingAwardWinners.get(1968));
-    Assertions.assertEquals("Allen Newell, Herbert A. Simon", turingAwardWinners.get(1975));
+    Assertions.assertEquals(
+        "Allen Newell, Herbert A. Simon", turingAwardWinners.get(1975));
   }
 }

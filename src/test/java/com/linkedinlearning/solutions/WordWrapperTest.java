@@ -13,6 +13,7 @@ public class WordWrapperTest {
     String actual = wordWrapper.wrap(text);
 
     Assertions.assertEquals(expected, actual);
+    System.out.println(actual);
   }
 
 }

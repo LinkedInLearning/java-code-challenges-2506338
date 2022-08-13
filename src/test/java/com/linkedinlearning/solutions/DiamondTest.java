@@ -25,7 +25,7 @@ public class DiamondTest {
           B B \s
            A  \s""";
     Assertions.assertEquals(expectedDDiamond, dDiamond);
-
+    System.out.println(dDiamond);
   }
 
 }

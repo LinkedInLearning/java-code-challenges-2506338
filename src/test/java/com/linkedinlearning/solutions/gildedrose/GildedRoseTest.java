@@ -103,6 +103,8 @@ public class GildedRoseTest {
     Assertions.assertEquals("Conjured Mana Cake", items[0].name);
     Assertions.assertEquals(2, items[0].sellIn);
     Assertions.assertEquals(4, items[0].quality);
+
+    System.out.println(items[0]);
   }
 
 }

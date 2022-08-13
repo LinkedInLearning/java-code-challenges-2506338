@@ -13,5 +13,7 @@ public class WordCountReaderTest {
     Assertions.assertEquals(18, reader.getWords());
     Assertions.assertEquals(86, reader.getCharacters());
     Assertions.assertEquals(70, reader.getCharactersExcludingSpaces());
+
+    System.out.println(reader);
   }
 }

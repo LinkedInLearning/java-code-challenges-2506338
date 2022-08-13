@@ -47,4 +47,10 @@ public class WordCountReader {
     return charactersExcludingSpaces;
   }
 
+  @Override
+  public String toString() {
+    return "WordCountReader [characters=" + characters + ", charactersExcludingSpaces=" + charactersExcludingSpaces
+        + ", words=" + words + "]";
+  }
+
 }
