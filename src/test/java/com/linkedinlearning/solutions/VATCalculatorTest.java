@@ -16,6 +16,7 @@ public class VATCalculatorTest {
         Total: 119.00€""";
     var actual = vatCalculator.renderInvoice(price);
     Assertions.assertEquals(expected, actual);
+    System.out.println(actual);
 
   }
 }
