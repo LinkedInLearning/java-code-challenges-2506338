@@ -2,7 +2,7 @@
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `Code-Challenges für Java`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-![2506338_de_DE_TN](https://user-images.githubusercontent.com/61017085/200604928-100003c1-6876-4843-bb70-b2db7ef1e714.jpg)
+![COURSENAME][lil-thumbnail-url] 
 
 Hinter den Code-Challenges stecken kompakte spannende Programmierrätsel auf unterschiedlichen Schwierigkeitsstufen, mit denen Sie ihre vorhandenen Java-Skills testen oder weitere neu hinzulernen können. Dazu zählen etablierte mathematische und algorithmische Problemstellungen aus der Informatik, aber auch Coding-Katas aus der Software Crafting Community.
 Zu jeder Aufgabe liefert Ihr Trainer Kevin Wittek gleich die passende Lösung, doch können Sie auch Ihren Lösungsweg ganz leicht mitprogrammieren und testen, denn dieser Kurs zeichnet sich durch eine nahtlose Integration von GitHub Codespaces, einer cloudbasierten Entwicklungsumgebung (IDE), aus.
@@ -35,4 +35,4 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/code-challenges-fur-java
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4D0DAQFeovAeCVjkhw/learning-public-crop_675_1200/0/1668092944086?e=2147483647&v=beta&t=SMOiFn2YbHCNSLgM29kb66Xn_R7giPLM8xd3igLQGo0
