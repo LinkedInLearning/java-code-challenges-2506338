@@ -22,5 +22,6 @@
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
   "java.configuration.updateBuildConfiguration": "automatic",
-  "java.dependency.packagePresentation": "hierarchical"
+  "java.dependency.packagePresentation": "hierarchical",
+  "java.server.launchMode": "Standard"
 }
